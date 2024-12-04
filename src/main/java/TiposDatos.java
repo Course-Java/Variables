@@ -52,4 +52,5 @@ public class TiposDatos {
 * La variable tipo long puede almacenar hasta 64 bits
 * En Java, todos los números enteros se consideran de tipo int por defecto. Sin embargo, si queremos especificar un tipo de dato diferente, podemos hacerlo de dos formas: utilizando un cast explícito (tipoDato)valor para números pequeños (como byte o short), o agregando un sufijo como L para números grandes que exceden el rango de int.
 * Por defecto, todos los números con punto flotante se consideran tipo double. Sin embargo, si queremos especificar un tipo de dato diferente (en este caso float), podemos simplemente agregar una F o f al final del número (lo mismo con double colocando el D o d, pero en esí ya está por default)
+* Usar CamelCase para los nombres de las variables (ejm: unaVariable)
 * */
